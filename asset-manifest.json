@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/r2wc-checklist/static/css/main.e6c13ad2.css",
+    "main.js": "/r2wc-checklist/static/js/main.6ee26b06.js",
+    "index.html": "/r2wc-checklist/index.html",
+    "main.e6c13ad2.css.map": "/r2wc-checklist/static/css/main.e6c13ad2.css.map",
+    "main.6ee26b06.js.map": "/r2wc-checklist/static/js/main.6ee26b06.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.6ee26b06.js"
+  ]
+}
